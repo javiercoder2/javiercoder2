@@ -1,6 +1,6 @@
 <h4 underline align="center">⚡⚡Javier Coder⚡⚡</h4>
 
-Hi 👋, I'm Javier and I'm the one who lovs challenges and learning⚡
+Hi 👋, I'm Javier and I'm the one who loves challenges and learning⚡
 
 <p align="left">
   <hr size="6" width="50%" align="left" color="green">
